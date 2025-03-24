@@ -1,3 +1,4 @@
 nginx
 ubuntu:22.04
-openresty:alpine
+openresty/openresty:alpine
+rancher/mirrored-coredns-coredns:1.11.3
