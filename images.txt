@@ -1,3 +1,4 @@
 nginx
 #redis缓存镜像
 --platform=linux/arm64 bitnami/redis:latest
+ubuntu:22.04
