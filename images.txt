@@ -3,4 +3,4 @@ ubuntu:22.04
 openresty/openresty:alpine
 rancher/mirrored-coredns-coredns:1.11.3
 --platform=linux/arm64 registry.k8s.io/pause:3.10
-postgresql:16.5.6
+postgres:16.5
