@@ -9,3 +9,6 @@ docker.io/bitnami/os-shell:12-debian-12-r40
 docker.io/bitnami/postgres-exporter:0.17.1-debian-12-r2
 kong:3.5
 kong/kubernetes-ingress-controller:3.0
+redis-cluster:7.0.11
+redis:7.0.11
+bitnami-shell:10-debian-10-r0
