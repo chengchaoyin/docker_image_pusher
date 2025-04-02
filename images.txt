@@ -19,3 +19,6 @@ docker.io/bitnami/os-shell:12-debian-12-r40
 
 docker.io/bitnami/mysqld-exporter:0.17.2-debian-12-r2
 docker.io/bitnami/mysqld-exporter:0.15.0-debian-12-r9
+
+apache/rocketmq:5.3.2
+apacherocketmq/rocketmq-dashboard:1.0.0
