@@ -1,1 +1,1 @@
-stakater/reloader:latest
+apache/rocketmq:4.9.4
