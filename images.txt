@@ -1,1 +1,2 @@
-redis:8.0
+pingcap/pd:v7.5.0
+pingcap/tikv:v7.5.6
