@@ -1,2 +1,1 @@
-pingcap/pd:v7.5.0
-pingcap/tikv:v7.5.6
+nacos/nacos-server:2.3.2
