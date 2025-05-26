@@ -1,1 +1,1 @@
-nacos/nacos-server:v2.3.2
+hub.zentao.net/app/zentao:latest
