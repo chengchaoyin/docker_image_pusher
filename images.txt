@@ -1,1 +1,2 @@
-hub.zentao.net/app/zentao:latest
+ bitnami/zookeeper:3.6.2
+ bitnami/kafka:2.6.2
