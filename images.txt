@@ -1,2 +1,1 @@
- bitnami/zookeeper:3.6.2
- bitnami/kafka:2.6.2
+flowable/flowable-rest
