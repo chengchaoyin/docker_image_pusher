@@ -1,1 +1,2 @@
-clickhouse/clickhouse-server:23.8
+infinilabs/coco:0.6.0-2324
+
