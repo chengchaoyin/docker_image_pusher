@@ -1,1 +1,1 @@
-hashicorp/consul:1.21
+  mongo:6.0.15
