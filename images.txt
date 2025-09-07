@@ -1,2 +1,1 @@
---platform=linux/arm64 eclipse-temurin:17-jre
-flink:1.17
+--platform=linux/arm64 bitnami/redis:7.4.2-debian-12-r6
