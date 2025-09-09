@@ -1,2 +1,1 @@
---platform=linux/arm64 nacos-server:v2.3.2
 packyzbq/konga:0.14.9-arm64
