@@ -1,1 +1,1 @@
-pantsel/konga:0.14.9
+rancher/local-path-provisioner:v0.0.24
