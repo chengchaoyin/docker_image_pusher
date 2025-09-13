@@ -1,4 +1,1 @@
-langgenius/dify-worker:latest
-langgenius/dify-web:latest
-langgenius/dify-sandbox:latest
-langgenius/dify-api:latest
+docker.io/langgenius/dify-plugin-daemon:latest
