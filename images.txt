@@ -1,1 +1,1 @@
-docker.io/langgenius/dify-plugin-daemon:latest
+altinity/metrics-exporter:0.25.4
