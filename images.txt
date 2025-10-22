@@ -1,2 +1,1 @@
-zabbix/zabbix-server-mysql:centos-7.4-latest
-zabbix/zabbix-web-nginx-mysql:centos-7.4-latest
+mysql:8.4.7
