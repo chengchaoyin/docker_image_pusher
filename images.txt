@@ -1,2 +1,2 @@
-altinity/metrics-exporter:0.25.4
-altinity/clickhouse-operator:0.25.4
+zabbix/zabbix-server-mysql:centos-7.4-latest
+zabbix/zabbix-web-nginx-mysql:centos-7.4-latest
