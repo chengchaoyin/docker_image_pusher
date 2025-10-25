@@ -1,1 +1,1 @@
-pantsel/konga:0.14.9
+kong/kubernetes-ingress-controller:3.5
