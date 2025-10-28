@@ -1,10 +1,6 @@
-openebs/m-apiserver:2.12.2
-openebs/openebs-k8s-provisioner:2.12.2
-openebs/provisioner-localpv:3.5.0
-openebs/snapshot-controller:2.12.2
-openebs/snapshot-provisioner:2.12.2
-openebs/node-disk-manager:2.1.0
-openebs/node-disk-operator:2.1.0
-openebs/admission-server:2.12.2
-openebs/linux-utils:3.5.0
-openebs/m-exporter:2.12.2
+quay.io/openebs/lvm-driver:1.4.0
+quay.io/openebs/csi-provisioner:v3.5.0
+quay.io/openebs/csi-attacher:v4.3.0
+quay.io/openebs/csi-resizer:v1.10.0
+quay.io/openebs/csi-snapshotter:v6.3.1
+quay.io/openebs/csi-node-driver-registrar:v2.9.0
