@@ -1,1 +1,1 @@
-openebs/lvm-driver:1.10.0
+kong:3.6
